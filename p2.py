@@ -1,0 +1,5 @@
+l=map(str,input().split(","))
+l1=list(l)
+l2=tuple(l1)
+print(l1)
+print(l2)
